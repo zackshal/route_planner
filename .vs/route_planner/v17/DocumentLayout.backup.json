@@ -3,32 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\oke\\source\\repos\\route_planner\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\File_out.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|solutionrelative:route_planner\\File_out.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9365FC2D-E325-46D5-ADBA-68CBEA2A93D9}|route_planner.vcxproj|C:\\Users\\oke\\source\\repos\\route_planner\\realization\\Gen_file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9365FC2D-E325-46D5-ADBA-68CBEA2A93D9}|route_planner.vcxproj|solutionrelative:realization\\Gen_file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Gen_file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|solutionrelative:route_planner\\Gen_file.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9365FC2D-E325-46D5-ADBA-68CBEA2A93D9}|route_planner.vcxproj|C:\\Users\\oke\\source\\repos\\route_planner\\realization\\Var_str.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9365FC2D-E325-46D5-ADBA-68CBEA2A93D9}|route_planner.vcxproj|solutionrelative:realization\\Var_str.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\File_out.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|solutionrelative:route_planner\\File_out.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9365FC2D-E325-46D5-ADBA-68CBEA2A93D9}|route_planner.vcxproj|C:\\Users\\oke\\source\\repos\\route_planner\\realization\\File_out.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9365FC2D-E325-46D5-ADBA-68CBEA2A93D9}|route_planner.vcxproj|solutionrelative:realization\\File_out.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Alg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|solutionrelative:route_planner\\Alg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9365FC2D-E325-46D5-ADBA-68CBEA2A93D9}|route_planner.vcxproj|C:\\Users\\oke\\source\\repos\\route_planner\\headers\\File_out.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9365FC2D-E325-46D5-ADBA-68CBEA2A93D9}|route_planner.vcxproj|solutionrelative:headers\\File_out.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Alg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|solutionrelative:route_planner\\Alg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Var_str.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|solutionrelative:route_planner\\Var_str.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Var_str.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{94E33CD1-3F62-4228-A7A5-854DB0353E80}|route_planner\\route_planner.vcxproj|solutionrelative:route_planner\\Var_str.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9365FC2D-E325-46D5-ADBA-68CBEA2A93D9}|route_planner.vcxproj|C:\\Users\\oke\\source\\repos\\route_planner\\realization\\Alg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9365FC2D-E325-46D5-ADBA-68CBEA2A93D9}|route_planner.vcxproj|solutionrelative:realization\\Alg.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,21 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Alg.h",
-              "DocumentMoniker": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Alg.h",
-              "RelativeDocumentMoniker": "route_planner\\Alg.h",
-              "ToolTip": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Alg.h",
-              "RelativeToolTip": "route_planner\\Alg.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-05T19:57:04.689Z",
-              "IsPinned": true
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -63,83 +42,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Var_str.h",
-              "DocumentMoniker": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Var_str.h",
-              "RelativeDocumentMoniker": "route_planner\\Var_str.h",
-              "ToolTip": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Var_str.h",
-              "RelativeToolTip": "route_planner\\Var_str.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-05T19:17:27.007Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "File_out.h",
-              "DocumentMoniker": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\File_out.h",
-              "RelativeDocumentMoniker": "route_planner\\File_out.h",
-              "ToolTip": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\File_out.h",
-              "RelativeToolTip": "route_planner\\File_out.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-05-05T19:58:30.437Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 3,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Alg.c",
-              "DocumentMoniker": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Alg.c",
-              "RelativeDocumentMoniker": "route_planner\\Alg.c",
-              "ToolTip": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Alg.c",
-              "RelativeToolTip": "route_planner\\Alg.c",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAwwIwAAAAAAAAAAAAAAA==",
+              "Title": "Gen_file.c",
+              "DocumentMoniker": "C:\\Users\\oke\\source\\repos\\route_planner\\realization\\Gen_file.c",
+              "RelativeDocumentMoniker": "realization\\Gen_file.c",
+              "ToolTip": "C:\\Users\\oke\\source\\repos\\route_planner\\realization\\Gen_file.c*",
+              "RelativeToolTip": "realization\\Gen_file.c*",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAnwJAAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-05T19:44:31.66Z",
-              "IsPinned": true
+              "WhenOpened": "2025-05-06T19:44:06.817Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Var_str.c",
-              "DocumentMoniker": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Var_str.c",
-              "RelativeDocumentMoniker": "route_planner\\Var_str.c",
-              "ToolTip": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Var_str.c",
-              "RelativeToolTip": "route_planner\\Var_str.c",
-              "ViewState": "AgIAADcAAAAAAAAAAAAwwF4AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\oke\\source\\repos\\route_planner\\realization\\Var_str.c",
+              "RelativeDocumentMoniker": "realization\\Var_str.c",
+              "ToolTip": "C:\\Users\\oke\\source\\repos\\route_planner\\realization\\Var_str.c",
+              "RelativeToolTip": "realization\\Var_str.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-05T19:18:01.612Z"
+              "WhenOpened": "2025-05-06T19:43:55.056Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "File_out.c",
-              "DocumentMoniker": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\File_out.c",
-              "RelativeDocumentMoniker": "route_planner\\File_out.c",
-              "ToolTip": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\File_out.c",
-              "RelativeToolTip": "route_planner\\File_out.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\oke\\source\\repos\\route_planner\\realization\\File_out.c",
+              "RelativeDocumentMoniker": "realization\\File_out.c",
+              "ToolTip": "C:\\Users\\oke\\source\\repos\\route_planner\\realization\\File_out.c",
+              "RelativeToolTip": "realization\\File_out.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-05T19:44:01.824Z"
+              "WhenOpened": "2025-05-06T19:43:42.612Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Gen_file.c",
-              "DocumentMoniker": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Gen_file.c",
-              "RelativeDocumentMoniker": "route_planner\\Gen_file.c",
-              "ToolTip": "C:\\Users\\oke\\source\\repos\\route_planner\\route_planner\\Gen_file.c",
-              "RelativeToolTip": "route_planner\\Gen_file.c",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAwwM0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "File_out.h",
+              "DocumentMoniker": "C:\\Users\\oke\\source\\repos\\route_planner\\headers\\File_out.h",
+              "RelativeDocumentMoniker": "headers\\File_out.h",
+              "ToolTip": "C:\\Users\\oke\\source\\repos\\route_planner\\headers\\File_out.h",
+              "RelativeToolTip": "headers\\File_out.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T19:43:38.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Alg.c",
+              "DocumentMoniker": "C:\\Users\\oke\\source\\repos\\route_planner\\realization\\Alg.c",
+              "RelativeDocumentMoniker": "realization\\Alg.c",
+              "ToolTip": "C:\\Users\\oke\\source\\repos\\route_planner\\realization\\Alg.c",
+              "RelativeToolTip": "realization\\Alg.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-05-05T19:16:46.971Z",
+              "WhenOpened": "2025-05-06T19:43:32.378Z",
               "EditorCaption": ""
             }
           ]

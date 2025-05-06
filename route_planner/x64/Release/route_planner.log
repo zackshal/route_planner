@@ -1,5 +1,0 @@
-﻿  Alg.c
-  File_out.c
-  Var_str.c
-Gen_file.obj : error LNK2001: неразрешенный внешний символ generate_map.
-C:\Users\oke\source\repos\route_planner\x64\Release\route_planner.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

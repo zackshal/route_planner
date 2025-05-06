@@ -1,1 +1,5 @@
-﻿C:\Users\oke\source\repos\route_planner\route_planner\route_planner.vcxproj : error MSB4025: не удалось загрузить файл проекта. Файл 'C:\Users\oke\source\repos\route_planner\route_planner\route_planner.vcxproj' не найден.
+﻿  Gen_file.c
+C:\Users\oke\source\repos\route_planner\realization\Gen_file.c(197,25): warning C4013: a_star_search: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\oke\source\repos\route_planner\realization\Gen_file.c(198,5): warning C4013: print_map_with_path: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\oke\source\repos\route_planner\realization\Gen_file.c(197,18): warning C4047: инициализация: "DLinkedList *" отличается по уровням косвенного обращения от "int"
+  route_planner.vcxproj -> C:\Users\oke\source\repos\route_planner\x64\Debug\route_planner.exe
