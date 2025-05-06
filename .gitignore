@@ -363,5 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # Custom folders
-x64
-route_planner
+x64/
+route_planner/
